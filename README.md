@@ -2,7 +2,7 @@
 
 An interactive Excel dashboard that analyzes sales performance by city, state, region, product category, and salesperson, with slicers for quick filtering.
 
-![Sales Dashboard](screenshots/dashboard.png)
+![Sales Dashboard](Dashboard.png.png)
 
 ## About the Project
 
